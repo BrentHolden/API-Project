@@ -1,0 +1,55 @@
+.wrapper{
+
+    height: 100%;
+    width: 100%;
+    background-color: #449CE4 !important;
+    
+    }
+
+.navbar{
+
+    background-color: #449CE4 !important;
+    color: white !important;
+
+}
+
+.nav-link{
+
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 150%;
+    color: white !important;
+
+}
+
+.nav-brand{
+
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 150%;
+    color: white !important;
+
+}
+
+.navbar-light{
+
+    color: white !important;
+
+}
+
+.jumbotron{
+
+    background-color: #449CE4 !important;
+
+}
+
+.container{
+
+    background-color: #449CE4 !important;
+
+}
+
+#jumboTitle{
+
+    font-family: 'Roboto', sans-serif;
+    color: white;
+
+}
