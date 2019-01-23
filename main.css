@@ -1,14 +1,13 @@
-.wrapper{
+body{
 
     height: 100%;
     width: 100%;
-    background-color: #449CE4 !important;
+    background-color: #3E8ED0 !important;
     
-    }
-
+}
 .navbar{
 
-    background-color: #449CE4 !important;
+    background-color: #3E8ED0 !important;
     color: white !important;
 
 }
@@ -17,7 +16,7 @@
 
     font-family: 'Roboto', sans-serif !important;
     font-size: 150%;
-    color: white !important;
+    color: #EFE9F4 !important;
 
 }
 
@@ -25,31 +24,48 @@
 
     font-family: 'Roboto', sans-serif !important;
     font-size: 150%;
-    color: white !important;
+    color: #EFE9F4 !important;
 
 }
 
 .navbar-light{
 
-    color: white !important;
+    color: #EFE9F4 !important;
 
 }
 
 .jumbotron{
 
-    background-color: #449CE4 !important;
+    background-color: #3E8ED0 !important;
+
+}
+
+#jumboText{
+
+    color: #EFE9F4;
+    font-family: 'Josefin Slab', serif;
+    
+    padding-top: 1vh;
+    padding-left: 2vw;
+}
+
+.info{
+    position: relative;
+    float: right;
+    clear: left;
+    clear: right;
 
 }
 
 .container{
 
-    background-color: #449CE4 !important;
+    background-color: #3E8ED0 !important;
 
 }
 
 #jumboTitle{
 
     font-family: 'Roboto', sans-serif;
-    color: white;
+    color: #EFE9F4;
 
 }

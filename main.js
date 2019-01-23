@@ -149,6 +149,8 @@ function presentCastle(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -185,6 +187,8 @@ function presentGrave(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -221,6 +225,8 @@ function presentNeighbor(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -257,6 +263,8 @@ function presentKiki(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -293,6 +301,8 @@ function presentYesterday(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -329,6 +339,8 @@ function presentPorco(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -365,6 +377,8 @@ function presentPomPoko(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -401,6 +415,8 @@ function presentWhisper(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -437,6 +453,8 @@ function presentMononoke(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -473,6 +491,8 @@ function presentYamadas(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -509,6 +529,8 @@ function presentSpirited(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -545,6 +567,8 @@ function presentTheCat(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -581,6 +605,8 @@ function presentHowls(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -617,6 +643,8 @@ function presentEarthSea(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -653,6 +681,8 @@ function presentPonyo(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -689,6 +719,8 @@ function presentArrietty(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -725,6 +757,8 @@ function presentPoppy(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -761,6 +795,8 @@ function presentWindRises(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -797,6 +833,8 @@ function presentKaguya(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
@@ -833,6 +871,8 @@ function presentMarnie(){
 
     let infoOne = document.createElement('p');
     let infoTwo = document.createElement('p')
+    infoOne.setAttribute('class', 'info');
+    infoTwo.setAttribute('class', 'info');
 
     title.textContent = film.title.toUpperCase();
     description.textContent = film.description;
